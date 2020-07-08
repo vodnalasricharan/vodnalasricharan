@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently studing second year of under-graduation at JNTUH College of Engineering.
+##### Open for internship opportunities.
+I am keen in learnig Data Science.
+<br>You can check more about me <a href='vodnalasricharan.github.io'/>here.</a>
+<br>📫 Feel free to reach me on:
+<br>&ensp;&ensp;&ensp;<a href='https://www.linkedin.com/in/sricharan-vodnala-b13b96187/'>✔Linkedin</a>
+<br>&ensp;&ensp;&ensp;<a href='https://www.kaggle.com/vodnalasricharan'>✔Kaggle</a>
+<br>&ensp;&ensp;&ensp;<a href='https://www.hackerrank.com/vodnalasricharan'>✔HackerRank</a>
+<br>&ensp;&ensp;&ensp;<a href='https://www.hackerearth.com/@sricharanvodnala100'>✔HackerEarth</a>
+<br>&ensp;&ensp;&ensp;<a href='mailto:vodnalasricharan@gmail.com'>✔Mail</a>
