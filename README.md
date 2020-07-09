@@ -1,4 +1,4 @@
-### Hi I'm Sricharan 👋
+### Hi, I'm Sricharan 👋
 
 <!--
 **vodnalasricharan/vodnalasricharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
