@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering.
 ##### Open for internship opportunities.
 I am keen in learnig Data Science.
-<br>You can check more about me <a href='vodnalasricharan.github.io'/>here.</a>
+<br>You can check more about me <a href='https://vodnalasricharan.github.io'/>here.</a>
 <br>📫 check out my profiles at:
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.linkedin.com/in/sricharan-vodnala-b13b96187/'>Linkedin</a>
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.kaggle.com/vodnalasricharan'>Kaggle</a>
