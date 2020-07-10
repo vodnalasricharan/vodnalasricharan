@@ -24,5 +24,4 @@ I am keen in learnig Data Science.
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerrank.com/vodnalasricharan'>HackerRank</a>
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerearth.com/@sricharanvodnala100'>HackerEarth</a>
 <br>Feel free to mail me at:
-[![Gmail Badge](https://img.shields.io/badge/-vodnalasricharan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vodnalasricharan@gmail.com)](vodnalasricharan@gmail.com)
 <br>&ensp;&ensp;&ensp;✉<a href='mailto:vodnalasricharan@gmail.com'>vodnalasricharan@gmail.com</a>
