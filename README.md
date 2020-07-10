@@ -1,5 +1,4 @@
 ### Hi, I'm Sricharan 👋
-
 <!--
 **vodnalasricharan/vodnalasricharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 profile hits : [![HitCount](http://hits.dwyl.com/vodnalasricharan/vodnalasricharan.svg)](http://hits.dwyl.com/vodnalasricharan/vodnalasricharan)
-
-<br>🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering.
+<br><br>🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering.
 ##### Open for internship opportunities.
 I am keen in learnig Data Science.
 <br>You can check more about me <a href='https://vodnalasricharan.github.io'/>here.</a>
