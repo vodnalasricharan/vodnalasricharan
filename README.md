@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+profile hits : [![HitCount](http://hits.dwyl.com/vodnalasricharan/vodnalasricharan.svg)](http://hits.dwyl.com/vodnalasricharan/vodnalasricharan)
+<br>
 🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering.
 ##### Open for internship opportunities.
 I am keen in learnig Data Science.
