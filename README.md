@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <br>You can check more about me <a href='https://vodnalasricharan.github.io'/>here.</a>
 <br>📫 check out my profiles at:
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.linkedin.com/in/sricharan-vodnala-b13b96187/'>Linkedin</a>
-<br>&ensp;&ensp;&ensp;✔<a href='https://www.kaggle.com/vodnalasricharan'>Kaggle</a>
+<br>&ensp;&ensp;&ensp;✔<a href='https://leetcode.com/vodnalasricharan/'>Leetcode</a>
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerrank.com/vodnalasricharan'>HackerRank</a>
-<br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerearth.com/@sricharanvodnala100'>HackerEarth</a>
 <br>Feel free to mail me at:
-<br>&ensp;&ensp;&ensp;✉<a href='mailto:vodnalasricharan@gmail.com'>vodnalasricharan@gmail.com</a>
+<br>&ensp;&ensp;&ensp;✉<a href='mailto:vodnalasricharan@gmail.com'>vodnalasricharan@gmail.com</a><br>
+[![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vodnalasricharan&count_private=true&show_icons=true&theme=radical&layout=compact)]()
+[![github profile](https://github-readme-stats.vercel.app/api?username=vodnalasricharan&show_icons=true&include_all_commits=true&theme=radical)]()
