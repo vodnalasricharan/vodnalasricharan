@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## :school: I’m currently pursuing my under-graduation at JNTUH College of Engineering Jagtial.
+## 🏫 I’m currently pursuing my under-graduation at JNTUH College of Engineering Jagtial.
 
 - Open for internship opportunities.
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <details align="left">
-  <summary><b>:chart_with_upwards_trend:Github Stats</b></summary>
+  <summary><b>📈Github Stats</b></summary>
 <br>
 <img alt="sicharanstats" src="https://github-readme-stats.vercel.app/api?username=vodnalasricharan&show_icons=true&include_all_commits=true&theme=radical">
 </details>
