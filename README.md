@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerrank.com/vodnalasricharan'>HackerRank</a>
 <br>Feel free to mail me at:
 <br>&ensp;&ensp;&ensp;✉<a href='mailto:vodnalasricharan@gmail.com'>vodnalasricharan@gmail.com</a><br>
-[![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=vodnalasricharan&count_private=true&show_icons=true&theme=radical&layout=compact)]()
+<details>
+  <summary><b>Github Stats</b></summary>
+<br>
 [![github profile](https://github-readme-stats.vercel.app/api?username=vodnalasricharan&show_icons=true&include_all_commits=true&theme=radical)]()
+</details>
+
