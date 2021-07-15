@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<a href='https://vodnalasricharan.github.io'><img align="left" width="26px" alt="portfolio" src="https://cdn.iconscout.com/icon/free/png-256/globe-416-444762.png"></a>
-<a href='https://www.linkedin.com/in/sricharanvodnala/'><img align="left" width="26px" alt="linkedin" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
-<a href='mailto:vodnalasricharan@gmail.com'><img align="left" width="26px" alt="mail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg"></a>
-<a href="https://www.instagram.com/sricharanvodnala/"><img align="left" width="26px" alt="instagram" src="https://image.flaticon.com/icons/png/128/1384/1384063.png"></a>
+<a href='https://vodnalasricharan.github.io'><img align="left" width="26px" alt="portfolio" margin-left="10px" src="https://cdn.iconscout.com/icon/free/png-256/globe-416-444762.png"></a>
+<a href='https://www.linkedin.com/in/sricharanvodnala/'><img align="left" width="26px" alt="linkedin" margin-left="10px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+<a href='mailto:vodnalasricharan@gmail.com'><img align="left" width="26px" alt="mail" margin-left="10px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg"></a>
+<a href="https://www.instagram.com/sricharanvodnala/"><img align="left" width="26px" alt="instagram" margin-left="10px" src="https://image.flaticon.com/icons/png/128/1384/1384063.png"></a>
 <br>
 <br>
 ## Skills
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> 
-<img align="left" alt="django" width="70px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/django.svg">
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bootstrap.svg">
-<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg">
+<img align="left" alt="C++" width="26px" margin-left="10px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="C" width="26px" margin-left="10px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="python" width="26px" margin-left="10px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> 
+<img align="left" alt="django" width="70px" margin-left="10px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/django.svg">
+<img align="left" alt="bootstrap" width="26px" margin-left="10px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bootstrap.svg">
+<img align="left" alt="jupyter" width="26px" margin-left="10px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg">
 
 <br>
 <br>
