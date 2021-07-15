@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+### Hi, I'm <a href="https://vodnalasricharan.github.io">Sricharan</a> 👋
+<!--
+**vodnalasricharan/vodnalasricharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-You can use the [editor on GitHub](https://github.com/vodnalasricharan/vodnalasricharan/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some ideas to get you started:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## :school: I’m currently pursuing my under-graduation at JNTUH College of Engineering Jagtial.
 
-```markdown
-Syntax highlighted code block
+- Open for internship opportunities.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 💻 I am a Django developer
 
-1. Numbered
-2. List
+- I love to make websites using django
+- I am a coding enthusiastic
+- solved 250+ problems on [Leetcode](https://leetcode.com/vodnalasricharan/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Connect with me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vodnalasricharan/vodnalasricharan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href='https://vodnalasricharan.github.io'><img align="left" width="26px" alt="portfolio" src="https://cdn.iconscout.com/icon/free/png-256/globe-416-444762.png"></a>
+<a href='https://www.linkedin.com/in/sricharanvodnala/'><img align="left" width="26px" alt="linkedin" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+<a href='mailto:vodnalasricharan@gmail.com'><img align="left" width="26px" alt="mail" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/google-gmail.svg"></a>
+<a href="https://www.instagram.com/sricharanvodnala/"><img align="left" width="26px" alt="instagram" src="https://image.flaticon.com/icons/png/128/1384/1384063.png"></a>
+<br>
+<br>
+## Skills
 
-### Support or Contact
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> 
+<img align="left" alt="django" width="70px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/django.svg">
+<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bootstrap.svg">
+<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+<br>
+<details align="left">
+  <summary><b>:chart_with_upwards_trend:Github Stats</b></summary>
+<br>
+<img alt="sicharanstats" src="https://github-readme-stats.vercel.app/api?username=vodnalasricharan&show_icons=true&include_all_commits=true&theme=radical">
+</details>
+
