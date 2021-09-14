@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## :school: I’m currently pursuing my under-graduation at JNTUH College of Engineering Jagtial.
 
-- Open for internship opportunities.
+- Open for internship and Fulltime opportunities.
 
 
 ## 💻 I am a Django developer
 
 - I love to make websites using django
 - I am a coding enthusiastic
-- solved 250+ problems on [Leetcode](https://leetcode.com/vodnalasricharan/)
+- solved 300+ problems on [Leetcode](https://leetcode.com/vodnalasricharan/)
 
 
 
