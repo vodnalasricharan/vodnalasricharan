@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## :school: I’m currently pursuing my under-graduation at JNTUH College of Engineering Jagtial.
-
-- Open for Fulltime opportunities.
+## I’m a Fresher looking out for new opportunities.
 
 
 ## 💻 I am a Django developer
