@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-## I’m a Fresher looking out for new opportunities.
-
-
-## 💻 I am a Django developer
-
-- I love to make websites using django
 - I am a coding enthusiastic
 - solved 500+ problems on <a href="https://leetcode.com/vodnalasricharan/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 
