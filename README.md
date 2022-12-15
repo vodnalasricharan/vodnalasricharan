@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sricharanvodnala/"><img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 <br>
-## Skills
+<!-- ## Skills
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <img align="left" alt="django" width="70px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/django.svg">
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bootstrap.svg">
 <img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg">
-
-<br>
-<br>
+ -->
+<!-- <br>
+<br> -->
 <details align="left">
   <summary><b>:chart_with_upwards_trend:Github Stats</b></summary>
 <br>
